@@ -1,0 +1,478 @@
+Package: com.kidsauto.kidsdaemon
+Name: KidsAuto 8.2.1
+Version: 8.2.1
+Architecture: iphoneos-arm
+Description: KidsAuto iOS Update 09/08/2019, Support from version 11 - 12.2
+Author: KidsAuto - CuongTran <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Dev by Tue Mobi
+Section: System
+Tag: role::hacker
+Filename: ./Debs/KidsAuto821Pub.deb
+Size: 1772276
+MD5sum: 86fbe5b12db3584a1cbc9defe88ff4a3
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.locationchanger
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
+
+Package: com.kidsauto.kidsdaemon
+Name: KidsAuto 8.3.1
+Version: 8.3.1
+Architecture: iphoneos-arm
+Description: KidsAuto iOS Update 09/09/2019, Support from version 11.x - 12.2 & 12.4
+Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Dev by TueMobi
+Section: System
+Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: ./Debs/KidsAuto831.deb
+Size: 1773092
+MD5sum: 4ed5574733e9449844edc67add35385c
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.kidsrestore,com.kidsauto.locationchanger
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
+
+Package: com.kidsauto.kidsdaemon
+Name: KidsAuto 8.3.2
+Version: 8.3.2
+Architecture: iphoneos-arm
+Description: KidsAuto iOS Update 06/12/2019, Support from version 10.x - 12.2 & 12.4
+Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Dev by TueMobi
+Section: System
+Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: ./Debs/KidsAuto832.deb
+Size: 1776300
+MD5sum: 8d42084abc4b7c361bc948eba3be6776
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,applist,com.kidsauto.kidsrestore,com.kidsauto.locationchanger
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
+
+Package: com.kidsauto.kidsdaemon
+Name: KidsAuto 8.4.1
+Version: 8.4.1
+Architecture: iphoneos-arm
+Description: KidsAuto iOS Update 25/12/2019, Support iOS Version 10.x - 12.2 & 12.4
+Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Developer by Tuệ Mobile
+Section: System
+Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: ./Debs/KidsAuto841.deb
+Size: 1716534
+MD5sum: 96113501067206a715bdc3e6af696c72
+Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist,ch.ringwald.hidsupport (>= 1.3.3),jp.ashikase.mousesupport,com.kidsauto.kidsrestore,com.kidsauto.locationchanger,com.kidsauto.kidsdeviceinfo
+Conflicts: com.rbt.useragentchanger,com.autopear.installipa,ch.ringwald.hidsupport (<< 1.3.3)
+
+Package: com.kidsauto.kidsdaemon
+Name: KidsAuto 9.0
+Version: 9.0
+Architecture: iphoneos-arm
+Description: KidsAuto iOS Update 23/02/2019, Support iOS Version 10.x - 12.2 & 12.4.5
+Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Developer by Tuệ Mobile
+Section: System
+Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: ./Debs/KidsAuto9.0.deb
+Size: 1719180
+MD5sum: 49c525276f0bbeb923eaa2e81c6083eb
+Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist,ch.ringwald.hidsupport (>= 1.3.3),jp.ashikase.mousesupport,com.kidsauto.kidsrestore,com.kidsauto.locationchanger,com.kidsauto.kidsdeviceinfo
+Conflicts: com.rbt.useragentchanger,com.autopear.installipa,ch.ringwald.hidsupport (<< 1.3.3)
+
+Package: com.kidsauto.kidsdaemon
+Name: KidsAuto
+Version: 9.1
+Architecture: iphoneos-arm
+Description: KidsAuto iOS Update 06/03/2020 Fixed Shifter.io, Support iOS Version 10.x - 12.2 & 12.4.5
+Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Developer by Tuệ Mobile
+Section: System
+Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: ./Debs/KidsAuto91.deb
+Size: 1723048
+MD5sum: 89469985af44e0dd2772f13de9502e84
+Depends: preferenceloader,com.conradkramer.open,com.rpetrich.rocketbootstrap,zip,unzip,openssh,rsync,jetslammed,socat,sudo,ws.hbang.repower,com.cydiageek.coysim,applist,ch.ringwald.hidsupport (>= 1.3.3),jp.ashikase.mousesupport,com.kidsauto.kidsrestore,com.kidsauto.locationchanger,com.kidsauto.kidsdeviceinfo
+Conflicts: com.rbt.useragentchanger, com.autopear.installipa, ch.ringwald.hidsupport (<< 1.3.3), com.kidsauto.kidsdaemon (<<9.0), com.kidsauto.kidsdeviceinfo (<<0.3)
+
+Package: com.kidsauto.kidsrestore
+Name: KidsRestore
+Version: 1.0-24
+Architecture: iphoneos-arm
+Description: Sao lưu, khôi phục hệ thống iPhone... Hỗ trợ cho KidsAuto 8.3 ++
+Author: KidsAuto - CuongTran <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Dev by TueMobi
+Section: Utilities
+Filename: ./Debs/KidsRestore.deb
+Size: 100508
+MD5sum: 80531df442ecc3ae815a5720734cb9d1
+Depends: mobilesubstrate,preferenceloader,ws.hbang.common,com.kidsauto.kidsdaemon (>= 8.3)
+Conflicts: com.kidsauto.kidsdaemon (<< 8.3)
+
+Package: com.kidsauto.locationchanger
+Name: LocationFaker(10,11)
+Version: 8.0
+Architecture: iphoneos-arm
+Author: Cunstuck <repo@hackyouriphone.org>
+Description: change your location using a map
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Section: Tweaks
+Filename: ./Debs/LocationFaker1011.deb
+Size: 636612
+MD5sum: ed520e2887f755ba235519cee9950856
+Depends: firmware, mobilesubstrate
+Conflicts: org.thebigboss.locationchangerx
+
+Package: com.kidsauto.kidsdeviceinfo
+Name: KidsDeviceInfo
+Version: 0.2
+Architecture: iphoneos-arm
+Description: KidsAuto iOS Plugins!
+Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Developer by Tuệ Mobile
+Section: Plugins
+Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: ./Debs/KidsDeviceInf.deb
+Size: 23616
+MD5sum: 121cdfb68f638c7488402ab1e786c084
+Depends: mobilesubstrate,preferenceloader,openssh,applist
+Conflicts: com.kidsauto.kidsdaemon (<< 8.4)
+
+Package: com.kidsauto.kidsdeviceinfo
+Name: KidsDeviceInfo
+Version: 0.3
+Architecture: iphoneos-arm
+Description: KidsAuto iOS Plugins!
+Author: KidsAuto - Cường Trần <https://www.facebook.com/kidsauto91>
+Homepage: https://www.facebook.com/groups/1356112074493442
+Maintainer: Developer by Tuệ Mobile
+Section: Plugins
+Tag: role::hacker, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: ./Debs/KidsDeviceInf_0.3.deb
+Size: 23586
+MD5sum: b51e770f7f3ea2dd39adecbac5f683f1
+Depends: mobilesubstrate,preferenceloader,openssh,applist
+Conflicts: com.kidsauto.kidsdaemon (<< 8.4)
+
+Package: ch.ringwald.hidsupport
+Name: hid-support
+Version: 1.3.4
+Architecture: iphoneos-arm
+Description: Support for KidsAuto iOS 10-11-12!
+Maintainer: Matthias Ringwald
+Author: Matthias Ringwald
+Section: Plugins
+Tag: role::developer
+Filename: ./Debs/Hid-Support134.deb
+Size: 43634
+MD5sum: 82c40e9322526b7615a8b6c3ef117854
+Depends: mobilesubstrate (>= 0.9.5101),com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.kidsauto.kidsdaemon (<< 8.4), ch.ringwald.hidsupport (<< 1.3.3)
+
+Package: jp.ashikase.mousesupport
+Name: MouseSupport
+Version: 1:1.2
+Architecture: iphoneos-arm
+Description: Pointer and external input extension for KidsAuto!!!
+Maintainer: KidsAuto <https://www.facebook.com/kidsauto91>
+Author: KidsAuto <https://www.facebook.com/kidsauto91>
+Section: System
+Tag: role::hacker
+Filename: ./Debs/MouseSupport1.2.deb
+Size: 24812
+MD5sum: 4bcd976dd35c5705174f8100dde5e25a
+Depends: mobilesubstrate (>= 0.9.5101), firmware (>=3.0), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), preferenceloader (>= 2.2.2), applist, ch.ringwald.hidsupport (>= 1.3.4)
+Conflicts: com.kidsauto.kidsdaemon (<< 8.4)
+
+Package: com.kidsauto.jailbreakbypass
+Name: JailBreakByPass 1.0.9
+Version: 1.0.9
+Architecture: iphoneos-arm
+Description: Tweak Support for KidsAuto 8!
+Maintainer: Dev by TueMobi
+Author: KidsAuto iOS (https://www.facebook.com/kidsauto91)
+Section: Tweaks
+Filename: ./Debs/JailbreakByPass109.deb
+Size: 8834
+MD5sum: 7cad10e48110ea6ac38143a96897bc58
+Depends: mobilesubstrate,com.kidsauto.kidsdaemon
+
+Package: com.kidsauto.jailbreakbypass
+Name: JailBreakByPass 1.2.1
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: Tweak Support for KidsAuto 8!
+Maintainer: Dev by TueMobi
+Author: KidsAuto iOS (https://www.facebook.com/kidsauto91)
+Section: Tweaks
+Filename: ./Debs/JailbreakByPass121.deb
+Size: 18264
+MD5sum: b8a08aa15ad3edeed5e54df97d86168d
+Depends: mobilesubstrate,com.kidsauto.kidsdaemon
+Conflicts: com.nablac0d3.sslkillswitch,com.nablac0d3.sslkillswitch2,com.kidsauto.sslkillswitch,com.isecpartners.nabla.sslkillswitch
+
+Package: com.ryleyangus.libertylite
+Name: Liberty Lite
+Architecture: iphoneos-arm
+Version: 0.2.10
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Filename: ./Debs/LibertyLite8.deb
+Size: 78350
+MD5sum: 94702173d002644394b5e245a2479963
+Depends: mobilesubstrate,preferenceloader,applist,firmware (>= 11.0)
+Conflicts: com.ryleyangus.liberty
+
+Package: com.ryleyangus.libertylite
+Name: Liberty Lite (Beta)
+Architecture: iphoneos-arm
+Version: 0.2.11
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported. 32-bit support is currently disabled.
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Filename: ./Debs/LibertyLite0211.deb
+Size: 53542
+MD5sum: 4f1f62459646a035ad95a1bce4de055e
+Depends: mobilesubstrate,preferenceloader,applist,firmware (>= 11.0)
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+
+Package: com.ryleyangus.libertylite
+Name: Liberty Lite (Beta)
+Architecture: iphoneos-arm
+Version: 0.2.12
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported. 32-bit support is currently disabled.
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Filename: ./Debs/LibertyLite0212.deb
+Size: 82634
+MD5sum: f1bbbac7c2eade5cdb5e6d1ee5120aa8
+Depends: mobilesubstrate,preferenceloader,applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+
+Package: co.azozzalfiras.tweaksmanager
+Name: Tweaks Manager
+Version: 1.2-1
+Architecture: iphoneos-arm
+Author: Azozz ALFiras
+Maintainer: Azozz ALFiras
+Description: Tweaks Manager for disable all tweaks from app or hide jailbreak
+Section: Tweaks
+Filename: ./Debs/TweakManager.deb
+Size: 747714
+MD5sum: b88a3ac6fa32462dc40a01e64f876df9
+Depends: mobilesubstrate, ws.hbang.common
+
+Package: com.kidsauto.xcon
+Name: xCon38
+Version: 38
+Architecture: iphoneos-arm
+Author: n00neimp0rtant <n00neimp0rtant_cydia@icloud.com>
+Depiction: http://modmyi.com/info/xcon.d.php
+Priority: extra
+Description: xCon is a project aimed to be a one-stop solution to bypassing jailbreak detection in App Store applications.
+Homepage: http://modmyi.com/info/xcon.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Section: Tweaks
+Filename: ./Debs/xcon38.deb
+Size: 28000
+MD5sum: b7d1c2b47288cd7c672f4093bde5e55d
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+
+Package: com.kidsauto.xcon
+Name: xCon42
+Version: 42~beta3
+Architecture: iphoneos-arm
+Description: bypass anti-jailbreak protection
+Maintainer: Lunatik
+Author: Lunatik
+Section: Tweaks
+Filename: ./Debs/xcon42_b3.deb
+Size: 136222
+MD5sum: d55e1432b2f7133b1bd12fae1acd37a8
+Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+
+Package: com.kidsauto.xcon
+Name: xCon42
+Version: 42~beta4
+Architecture: iphoneos-arm
+Description: bypass anti-jailbreak protection
+Maintainer: Lunatik
+Author: Lunatik
+Section: Tweaks
+Filename: ./Debs/xcon42.deb
+Size: 136610
+MD5sum: 8780b83da6b21cb86279855cf95e13f5
+Depiction: http://xcon.crazy.net/depictions/index.html?p=com.n00neimp0rtant.xcon
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+
+Package: com.kidsauto.kidsbypass
+Name: KidsByPass
+Version: 2.17
+Architecture: iphoneos-arm
+Description: By Pass Jailbreak Detect
+Maintainer: Internet
+Author: Internet
+Section: Tweaks
+Filename: ./Debs/KidsByPass2.17.deb
+Size: 185508
+MD5sum: 0cc7919af8c8275c0c96898a5e90fff0
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common, com.kidsauto.kidsdaemon (>= 8.3)
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite, com.kidsauto.xcon, com.kidsauto.jailprotect, com.kidsauto.kidsdaemon (<< 8.3)
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB_KidsByPass
+Version: 0.2.2~beta2
+Architecture: iphoneos-arm
+Description: Chặn phát hiện Jailbreak!!!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Filename: ./Debs/FlyJB_KidsByPass0.2.2b2.deb
+Size: 220964
+MD5sum: 62b3da15c62b8743f42c7b500d8c057e
+Depends: mobilesubstrate, applist (>=1.5.15~beta1), preferenceloader, com.rpetrich.rocketbootstrap (>=1.0.7~beta3), ws.hbang.common
+Conflicts: com.rpgfarm.a-bypass, com.kidsauto.kidsbypass, com.ryleyangus.liberty, com.ryleyangus.libertylite, com.kidsauto.xcon, com.kidsauto.jailprotect
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB_KidsByPass
+Version: 0.2.3~beta5
+Architecture: iphoneos-arm
+Description: Chặn phát hiện Jailbreak!!!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Filename: ./Debs/FlyJB_KidsByPass0.2.3b5.deb
+Size: 561634
+MD5sum: fe4d4e2eff4ec2e8937b0a9e1e22db40
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader (>= 2.2.4), com.rpetrich.rocketbootstrap (>=1.0.7~beta3), ws.hbang.common
+Conflicts: com.rpgfarm.a-bypass, com.kidsauto.kidsbypass, com.ryleyangus.liberty, com.ryleyangus.libertylite, com.kidsauto.xcon, com.kidsauto.jailprotect
+
+Package: com.kidsauto.jailprotect
+Name: JailProtect 0.0.4
+Version: 0.0~beta4a
+Architecture: iphoneos-arm
+Description: Ngăn chặn phát hiện Jailbreak, tương tự Liberty Lite
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Author: julioverne
+Section: Tweaks
+Filename: ./Debs/JailProtect.deb
+Size: 53126
+MD5sum: 97aebf5fe2d5689858eb5bb6e1a2ddcf
+Depends: mobilesubstrate, preferenceloader
+
+Package: me.jjolano.shadow
+Name: Shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Author: jjolano <jjolano@me.com>
+Maintainer: jjolano <jjolano@me.com>
+Depiction: https://ios.jjolano.me/depiction/web/me.jjolano.shadow.html
+SileoDepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
+ModernDepiction: https://ios.jjolano.me/depiction/native/me.jjolano.shadow.json
+Icon: https://ios.jjolano.me/assets/me.jjolano.shadow/icon.png
+Description: A lightweight general Jailbreak Detection bypass.
+Homepage: https://shuga.co/
+Section: Tweaks
+Filename: ./Debs/Shadow2.0.2.deb
+Size: 250068
+MD5sum: 247488a393bb3504b209a1d5696b95a5
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+
+Package: com.rpgfarm.a-bypass
+Name: A-Bypass
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Chặn phát hiện Jailbreak - Root!
+Maintainer: Baw Appie <pp121324@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Filename: ./Debs/A-BypassJailbreak.deb
+Size: 48878
+MD5sum: 87cb38d2722566e407b2ae00f1225f90
+Depends: mobilesubstrate, applist
+
+Package: com.kidsauto.icleaner
+Name: iCleaner
+Version: 7.7.5
+Architecture: iphoneos-arm
+Description: Dọn rác và tối ưu hệ thống iPhone Jailbreak
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ivano Bilenchi <support@ib-soft.net>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icleanerDp
+Icon: file:///Applications/iCleaner.app/Icon.png
+dev: exilecom
+Tag: purpose::uikit, compatible::ios10, compatible::ios11, compatible::ios12
+Section: Utilities
+Filename: ./Debs/icleaner775.deb
+Size: 9872624
+MD5sum: e55286a7f39503142579f145fe60a4ed
+Pre-Depends: firmware (>= 4.0), apt | apt7, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner
+
+Package: com.180.antirevoke
+Name: AntiRevoke
+Version: 0.0.1
+Architecture: iphoneos-arm
+Author: stem grade
+Description: Ngăn chặn Apple thu hồi chứng chỉ (Có thể ảnh hưởng tốc độ mạng)
+Maintainer: stem grade
+Section: Utilities
+Filename: ./Debs/Antirevoke_0.0.1.deb
+Size: 32782
+MD5sum: d17d291539ee64034518e9412f1b0b01
+Depends: mobilesubstrate
+
+Package: applist
+Name: AppList
+Version: 1.5.15~beta1
+Architecture: iphoneos-arm
+dev: rpetrich
+Description: Allow extensions to read the list of installed apps
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Author: Ryan Petrich <rpetrich@gmail.com>
+Section: System
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Filename: ./Debs/Applist1.5.15b1.deb
+Size: 186234
+MD5sum: ae6c787fff1bed2b0e7373c65cc27400
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7), firmware (<<11.0)
+
+Package: com.rpetrich.rocketbootstrap
+Name: RocketBootstrap
+Version: 1.0.7~beta3
+Architecture: iphoneos-arm
+dev: rpetrich
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+Tag: purpose::extension, role::developer
+Filename: ./Debs/RocketBoostrap107b3.deb
+Size: 67590
+MD5sum: bfb5b785c9a80226d46362bb6ca952b0
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
